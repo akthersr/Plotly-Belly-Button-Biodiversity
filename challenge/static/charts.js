@@ -133,8 +133,6 @@ function buildCharts(sample) {
 
   // 3. Use Plotly to plot the data with the layout.
     Plotly.newPlot("bubble", bubbleData, bubbleLayout);
-  
-  
 // Deliverable Three
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
