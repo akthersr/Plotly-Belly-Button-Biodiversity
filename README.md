@@ -7,6 +7,7 @@ Roza,who is a micro-biological researcher want to build a dashboard to explore t
 ## Resource
 
 Data Source: samples.json
+
 Software: VS Code, Javascript, Plotly, Bootstrap, d3, HTML
 
 ## Results
@@ -15,7 +16,7 @@ Software: VS Code, Javascript, Plotly, Bootstrap, d3, HTML
 
 The first step in creating the dashboard was to use the d3 library to read the samples.json dataset.Then,create a horizontal bar chart which will display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu.The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.The image is as follows:
 
-![]()
+![](https://github.com/akthersr/Plotly-Belly-Button-Biodiversity/blob/main/bar%20chart.png)
 
 ### Bubble Chart
 
@@ -34,4 +35,4 @@ The final chart of the dashboard was created to show how often each of the test 
 
 The final step is to create the Belly Button Bio-diversity dashboard ,was to cutomize the webpage and make more visually attractive to the user.The final dashboard is shown below:
 
-![]()
+![](https://github.com/akthersr/Plotly-Belly-Button-Biodiversity/blob/main/final.png)
