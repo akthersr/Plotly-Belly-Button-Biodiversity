@@ -21,7 +21,7 @@ The first step in creating the dashboard was to use the d3 library to read the s
 
 The second step of creating the dashboard is to create a bubble chart using plotly and similar script fromat we used for bar chart.The markers for the bubbles were set to be sized based on the sample_values and marker colors as otu_ids.The bubble chart is as follows:
 
-![]()
+![](Resources/bubble chart.png)
 
 ### Gauge Chart
 
