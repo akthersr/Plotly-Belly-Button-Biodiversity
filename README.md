@@ -27,7 +27,7 @@ The second step of creating the dashboard is to create a bubble chart using plot
 
 The final chart of the dashboard was created to show how often each of the test subjects washed their belly buttons per week.This gauge chart will displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar, when an individual ID is selected from the dropdown menu.Feom the data,the wFreq data was converted to a floating deciaml and saved as wFreq var.The gauge chart is as follows:
 
-![]()
+![](https://github.com/akthersr/Plotly-Belly-Button-Biodiversity/blob/main/Resources/gauge%20.png)
 
 
 ## DashBoard
