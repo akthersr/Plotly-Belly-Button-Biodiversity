@@ -3,6 +3,7 @@
 ## Overview
 
 Roza, who is a micro-biological researcher want to build a dashboard to explore the Belly Button Biodiversity dataset, which categorized by bacterial species that exists in human belly buttons. Her goal is to identify the top 10 bacterial species in human belly buttons, so that Improbable Beef identifies a species as a candidate to manufacture synthetic beef and Roza's volunteers will be able to identify whether that species is found in their navel.
+Deployed Link: https://akthersr.github.io/Plotly_and_belly_button_biodiversity/
 
 ## Resource
 
